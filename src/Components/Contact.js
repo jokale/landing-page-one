@@ -3,7 +3,8 @@ import React from 'react'
 class Contact extends React.Component {
     render(){
         return(
-            <div>
+            
+            <div id="contact">
                 <h3>
                     contact us 
                 </h3>
