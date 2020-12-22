@@ -6,9 +6,15 @@ import Header from './Components/Header';
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Card/>
-      <Contact/>
+      <div id="Header">    
+        <Header/> 
+      </div> <br></br>
+      <div id="Card">
+        <Card/>
+      </div><br></br>
+      <div id="Contact" >    
+       <Contact/>
+      </div> <br></br>
     </div>
   );
 }
