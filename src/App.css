@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+div#Header {
+  background-color: rgb(209, 58, 31);
+  padding: 60px;
+  text-align: center;
+  color: antiquewhite;
+  font-size: 30px;
+
+}
