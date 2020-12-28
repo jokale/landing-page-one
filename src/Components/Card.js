@@ -9,10 +9,16 @@ class Card extends React.Component {
 
                  <br></br>
             <div id="vision">
-                <h3 id="h3-vision">The vision</h3>
-                <p>Here at J-Tech we aim to ensure all our tech family are placed in <br></br> the best companies and that the best companies get the best of our talent</p>
+                <div id="text-vision">
+                    <h3 id="h3-vision">The vision</h3>
+                    <p>Here at J-Tech we aim to ensure all our tech family are placed in <br></br> the best companies and that the best companies get the best of our talent</p>
+                    <p>With our intensive tech programs we train you up to be employment ready in 3 months!</p>
+                </div>
+                
             </div>
             <div id="mission">
+                
+                
                 <h3 id="h3-vision">The J-Tech Mission</h3>
                 <p>Here at J-Tech we aim to ensure all our tech family are placed in <br></br> the best companies and that the best companies get the best of our talent</p>
             </div>
