@@ -75,6 +75,11 @@ div#form {
   position: relative ; right: -300px; top: -150px;
 }
 
+
+div#card{
+  display: inline-block;
+  flex-direction: row;
+}
 /* header component */
 
 h1#welcome {
@@ -89,8 +94,9 @@ h3{
   font-family: 'Jost', sans-serif;
 }
 
-h1,h2,h5,h6 {
+h1,h2,h5,h6,p {
   text-align: center;
   font-family: 'Poppins', sans-serif;
 
 }
+
