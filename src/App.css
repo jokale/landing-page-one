@@ -47,10 +47,6 @@ div#Header {
   color: antiquewhite;
   font-size: 30px;
   position: relative;
-  height: 100%;
-  width: 1500px;
-
-
 }
 
 div#about {
@@ -79,6 +75,22 @@ div#form {
   position: relative ; right: -300px; top: -150px;
 }
 
-h1,h2,h3,h5,h6 {
+/* header component */
+
+h1#welcome {
+  font-family: 'Audiowide', cursive;
   text-align: center;
+}
+h5#header {
+  font-family: 'Jost', sans-serif;
+}
+
+h3{
+  font-family: 'Jost', sans-serif;
+}
+
+h1,h2,h5,h6 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+
 }

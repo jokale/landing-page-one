@@ -12,7 +12,7 @@ function App() {
       <div id="Card">
         <Card/>
       </div><br></br>
-      <div id="Contact" >    
+      <div id="Contact">    
        <Contact/>
       </div> <br></br>
     </div>
