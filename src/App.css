@@ -57,9 +57,12 @@ div#about {
 
 div#vision {
   padding: 40px;
-  background-color: #b8602611;
+  background-color: #f86300a9;
   position: relative;
-  border: 15px solid orange
+  /* border: 15px solid#F4511E; */
+  color: antiquewhite;
+  background-repeat: initial;
+
 
 }
 
@@ -68,11 +71,16 @@ div#contact-details {
 padding: 40px;
 background-color: #00000011;
 /* background-position: left; */
-background-repeat: initial;
+/* background-repeat: initial; */
 }
 
+div#address{
+  position: relative ; right: 130px; top: -1px;
+}
+
+
 div#form {
-  position: relative ; right: -200px; top: -230px;
+  position: relative ; right: -220px; top: -237px;
 }
 
 
@@ -100,3 +108,13 @@ h1,h2,h5,h6,p {
 
 }
 
+button {
+  background-color: #F4511E;
+  border: none;
+  color: white;
+  padding: 5px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}

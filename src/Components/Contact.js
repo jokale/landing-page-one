@@ -9,11 +9,16 @@ class Contact extends React.Component {
                 <div id="contact-details"> 
                 <h3>
                     contact us 
-                </h3>
+
+                    
+                </h3>                    
+                
+                <div id="address">
+
                     <h5>Contact us and we will get back to you in 24 hours</h5>
                     <h5>London, United Kingdom</h5>
                     <h5>+441234567890</h5>
-                    <h5>company@company.com</h5>
+                    <h5>company@company.com</h5></div>
                 </div>
                 <div id="form">
                     <form>
@@ -22,8 +27,8 @@ class Contact extends React.Component {
                         <label>Email</label> <br></br>
                         <input placeholder="Email"></input> <br></br>
                         <label>Attach CV</label> <br></br>
-                        <input type="file" id="myfile" name="myfile"></input> <br></br>
-                        <button>Submit</button> <br></br>
+                        <br></br><input type="file" id="myfile" name="myfile"></input> <br></br>
+                       <br></br><button>Submit</button> <br></br>
                    </h5> </form>
                 </div>
             </div>

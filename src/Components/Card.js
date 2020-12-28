@@ -31,13 +31,13 @@ class Card extends React.Component {
                      <div class="card">                   
                      <h4><b>Jacob</b></h4> 
                      <h6>Software Engineer</h6>
-                     <p>"J-Tech was ecerything I needed to step up my career" </p> <br></br>
+                     <p>"J-Tech was ecerything I needed to step up my career and get to that next level" </p> <br></br>
                     <h4><b>Helen</b></h4> 
                      <h6>DevOpsEngineer</h6>
-                     <p>"J-Tech was ecerything I needed to step up my career" </p> <br></br>
+                     <p>"Because of J-Tech my salary has increased tenfold!" </p> <br></br>
                      <h4><b>Samuel</b></h4> 
                      <h6>UX/UI Engineer</h6>
-                     <p>"J-Tech was ecerything I needed to step up my career" </p> 
+                     <p>"J-Tech has allowed me to plant my feet in the industry and start earning once the course was over!" </p> 
                       </div>
                    
                 </div>
