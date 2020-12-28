@@ -72,12 +72,12 @@ background-repeat: initial;
 }
 
 div#form {
-  position: relative ; right: -300px; top: -150px;
+  position: relative ; right: -200px; top: -230px;
 }
 
 
 div#card{
-  display: inline-block;
+  display: flex;
   flex-direction: row;
 }
 /* header component */

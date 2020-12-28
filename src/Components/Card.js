@@ -28,8 +28,7 @@ class Card extends React.Component {
                 <p>Do you want to be working in one of the best tech companies? Then send over your CV and let us do the rest</p>
                 <p>Check out below some of our tech specialists have to say about our serivice.</p>
                 <div class="cards">
-                    <img src="/Components/download.png" alt="Avatar" />
-                     <div class="card">
+                     <div class="card">                   
                      <h4><b>Jacob</b></h4> 
                      <h6>Software Engineer</h6>
                      <p>"J-Tech was ecerything I needed to step up my career" </p> <br></br>
