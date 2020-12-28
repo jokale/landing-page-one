@@ -17,14 +17,14 @@ class Contact extends React.Component {
                 </div>
                 <div id="form">
                     <form>
-                        <label>Name</label> <br></br>
+                       <h5> <label>Name</label> <br></br>
                         <input placeholder="Name"></input> <br></br>
                         <label>Email</label> <br></br>
                         <input placeholder="Email"></input> <br></br>
                         <label>Attach CV</label> <br></br>
                         <input type="file" id="myfile" name="myfile"></input> <br></br>
                         <button>Submit</button> <br></br>
-                    </form>
+                   </h5> </form>
                 </div>
             </div>
         )
